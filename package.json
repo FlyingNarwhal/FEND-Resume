@@ -1,0 +1,23 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "personal resume, and portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlyingNarwhal/resume.git"
+  },
+  "author": "Joe Dahle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlyingNarwhal/resume/issues"
+  },
+  "homepage": "https://github.com/FlyingNarwhal/resume#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4"
+  }
+}

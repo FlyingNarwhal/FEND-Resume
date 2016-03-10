@@ -12,7 +12,7 @@ var bio = {
 	},
 	"welcomeMessage": "",
 	"skills": ["HTML/ CSS", "JavaScript", "Sass", "Git", "Linux"],
-	"bioPic": "images/fry.jpg",
+	"bioPic": "images/profile.jpg",
 	"display": function() {
 		// variables for header
 		var $header = $("#header");
@@ -106,18 +106,18 @@ var work = {
 		"description": "I drive kids all over town, to home, to school-- you know everywhere those kids need to go."
 	},
 	{
-		"employer": "Kroger",
-		"title": " Day Stock",
-		"location": "San Tan Valley, Arizona",
-		"dates": "May 2011 - March 2013 ",
-		"description": "Responsibilities I kept shelves stocked, and received shipments. On top on this, I helped the front end during peak business times. Accomplishments I was often referred to as the best day stocker at the store, and most reliable. Skills Used Self-discipline, I rarely had a supervisor on duty, so I had to manage my time and efforts to the best of my ability. Planning- I never knew when I would be asked to help up front, or when a shipment would arrive, so I had to make sure the shelves were in order at any given moment. Mild-temper- During extremely difficult and stressful times, I kept my composure, and focused on the task at hand."
-	},
-	{
 		"employer": "The Church of Jesus Christ of Latter-Day Saints",
 		"title": " Full-Time Missionary",
 		"location": "Louisville, Kentucky",
 		"dates": "April 2013 - April 2015 ",
 		"description": "Finding people to teach our message- Building a network of people, and appealing to their specific needs. Teaching- Creating lessons specific to the individual that would enable them to overcome their weaknesses, and improve the overall quality of their life. \nServing- Whether serving food at a soup kitchen, or cleaning someones gutters, I helped improve the community anyway I could. \nDistrict Leader- I was put in charge of 15 other missionaries to help with their duties to the community. I did this by keeping regular/daily communication with each of them, and holding weekly meetings to provide motivation and understanding to our purpose. \nAccomplishments Most notably: I helped one man quit smoking 5-6 packs of cigarettes a day, to zero. I helped another get the courage to go to rehab and finally give up alcohol. I helped another realize how important their life was, and not end it. Skills Used Charity, humility, diligence, perseverance, preparation, honesty. Ability to adapt to quickly changing circumstances. Budgeting- I had to live on a fixed $130 a month for 2 years."
+	},
+	{
+		"employer": "Kroger",
+		"title": " Day Stock",
+		"location": "San Tan Valley, Arizona",
+		"dates": "May 2011 - March 2013 ",
+		"description": "Responsibilities I kept shelves stocked, and received shipments. On top on this, I helped the front end during peak business times. Accomplishments I was often referred to as the best day stocker at the store, and most reliable. Skills Used Self-discipline, I rarely had a supervisor on duty, so I had to manage my time and efforts to the best of my ability. Planning- I never knew when I would be asked to help up front, or when a shipment would arrive, so I had to make sure the shelves were in order at any given moment. Mild-temper- During extremely difficult and stressful times, I kept my composure, and focused on the task at hand."
 	}],
 	"display": function() {
 		$("#workExperience").append(HTMLworkStart);
