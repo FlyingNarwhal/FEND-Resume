@@ -5,7 +5,7 @@ var bio = {
 	"role": "Front-End Web Developer",
 	"contacts": {
 		"mobile": "(623) 349-1206",
-		"email": "joe.dahle@gmail.com",
+		"email": "joe.dahle at gmail.com",
 		"github": "FlyingNarwhal",
 		"twitter": "@FlyingNarwhal",
 		"location": "Phoenix, Arizona"
