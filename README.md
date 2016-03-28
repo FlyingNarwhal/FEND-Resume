@@ -1,3 +1,10 @@
+The updated version of this project has been added to the following repo:
+
+[link](https://github.com/JoeDahle/JoeDahle.github.io)
+
+It will also be maintained at that location.
+
+
 # The Resume Project
 
 ## How do I complete this project?
